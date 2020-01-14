@@ -49,6 +49,12 @@ class App extends Component {
             <Box></Box>
             <Box></Box>
           </div>
+
+          <div className="row8">
+            <Box></Box>
+            <Box></Box>
+            <Box></Box>
+          </div>
         </div>
 
         <div className="cols">
