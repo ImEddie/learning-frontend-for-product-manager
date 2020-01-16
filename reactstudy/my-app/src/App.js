@@ -6,11 +6,9 @@ class App extends Component {
   render() {
     return (
       <div className="row">
-        <Box>-</Box>
-        <div>0</div>
-        <Box>+</Box>
+        <Box></Box>
       </div>
-    )
+    );
   }
 }
 
